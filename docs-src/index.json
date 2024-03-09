@@ -4,12 +4,12 @@
 	],
 	"pages": {
 		"policy": {
-			"path": "docs/policy/",
+			"path": "docs-src/policy/",
 			"name": "Policy",
 			"description": "this is our privacy policy, it may contain what you need",
 			"pages": [
 				{
-					"path": "docs/policy/general_privacy_statment_zh.md",
+					"path": "docs-src/policy/general_privacy_statment_zh.md",
 					"title": "iTrans通用隐私政策",
 					"description": "通用隐私政策",
 					"authors": [
@@ -17,7 +17,7 @@
 					]
 				},
 				{
-					"path": "docs/policy/general_privacy_statment_en.md",
+					"path": "docs-src/policy/general_privacy_statment_en.md",
 					"title": "iTrans general privacy statment",
 					"description": "general privacy statment",
 					"authors": [

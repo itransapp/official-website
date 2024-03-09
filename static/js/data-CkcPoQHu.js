@@ -1,1 +1,0 @@
-const e=[{name:"Terms",href:"docs/terms/terms-of-service"},{name:"Privacy",href:"docs/privacy-policies/general-privacy-statement"},{name:"Docs",href:"/docs"},{name:"Contact iTrans Support",href:"/docs/support"}];export{e as f};
