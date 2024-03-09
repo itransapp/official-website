@@ -1,0 +1,1 @@
+import{j as r,l as t}from"./index-Vn5FllzU.js";import{f as o}from"./data-CkcPoQHu.js";const f=()=>r.jsx("div",{className:"sticky top-[100vh] h-10 flex items-center justify-center space-x-6 font-medium",children:o.map((e,s)=>r.jsx(t,{isBlock:!0,size:"sm",href:e.href,color:"foreground",children:e.name},s))});export{f as default};
