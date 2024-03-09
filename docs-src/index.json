@@ -9,19 +9,19 @@
 			"description": "this is our privacy policy, it may contain what you need",
 			"pages": [
 				{
-					"path": "docs-src/policy/general_privacy_statment_zh.md",
+					"path": "docs-src/policy/general_privacy_statement_zh.md",
 					"title": "iTrans通用隐私政策",
-					"description": "通用隐私政策",
+					"description": "感谢使用 iTrans！ 我们很高兴在这里遇到你。 在访问或使用 iTrans 之前，请仔细阅读本服务协议条款。 由于它是我们与用户之间的重要合同，因此我们尽可能明确阐述。 为方便起见，我们在列出完整的法律条款之前，用简短的非约束性摘要介绍了这些条款。",
 					"authors": [
-						"Offical"
+						"Official"
 					]
 				},
 				{
-					"path": "docs-src/policy/general_privacy_statment_en.md",
-					"title": "iTrans general privacy statment",
-					"description": "general privacy statment",
+					"path": "docs-src/policy/general_privacy_statement_en.md",
+					"title": "iTrans general privacy statement",
+					"description": "Thank you for using iTrans! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using iTrans. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.",
 					"authors": [
-						"Offical"
+						"Official"
 					]
 				}
 			]
