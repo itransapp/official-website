@@ -1,0 +1,1 @@
+import{K as r,y as o,J as u,r as n,l as s}from"./index-Dq1-S-Sq.js";const f=()=>{const t=r(),{reset:e}=o(),{clear:a}=u();return n.useEffect(()=>{e(),a(),t("/")}),s.jsx(s.Fragment,{})};export{f as default};

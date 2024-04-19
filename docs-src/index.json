@@ -1,6 +1,7 @@
 {
 	"modules": [
-		"policy"
+		"policy",
+		"guidelines"
 	],
 	"pages": {
 		"policy": {
@@ -20,6 +21,21 @@
 					"path": "docs-src/policy/general_privacy_statement_en.md",
 					"title": "iTrans general privacy statement",
 					"description": "Thank you for using iTrans! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using iTrans. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.",
+					"authors": [
+						"Official"
+					]
+				}
+			]
+		},
+		"guidelines": {
+			"path": "docs-src/guidelines/",
+			"name": "Guidelines",
+			"descriptions": "iTrans Community Content Guidelines",
+			"pages": [
+				{
+					"path": "docs-src/guidelines/community_content_guidelines_zh.md",
+					"title": "iTrans社区内容引导",
+					"descriptions": "",
 					"authors": [
 						"Official"
 					]
