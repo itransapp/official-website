@@ -30,7 +30,7 @@
 		"guidelines": {
 			"path": "docs-src/guidelines/",
 			"name": "Guidelines",
-			"descriptions": "iTrans Community Content Guidelines",
+			"description": "iTrans Community Content Guidelines",
 			"pages": [
 				{
 					"path": "docs-src/guidelines/community_content_guidelines_zh.md",
