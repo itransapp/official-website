@@ -1,1 +1,0 @@
-import{J as r,y as o,K as u,r as n,l as s}from"./index-B2GMOWNH.js";const f=()=>{const t=r(),{reset:e}=o(),{clear:a}=u();return n.useEffect(()=>{e(),a(),t("/")}),s.jsx(s.Fragment,{})};export{f as default};
