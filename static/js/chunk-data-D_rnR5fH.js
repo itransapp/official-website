@@ -1,1 +1,0 @@
-import{y as t}from"./index-BJB5ivqQ.js";const o=[{name:t("terms"),href:"/docs/t?part=term"},{name:t("privacy"),href:"/docs/t?part=policy"},{name:t("document"),href:"/docs"},{name:t("contact_itrans_support"),href:"/docs/t?part=support"}];export{o as f};

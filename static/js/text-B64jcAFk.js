@@ -1,0 +1,3 @@
+const l=(n,t)=>t.length===1?`${t[0]} reacted ${n} emoji`:t.length>10?`${t.slice(0,9).join(", ")} and ${t.length-10} more reacted with ${n} emoji`:`${t.slice(0,t.length-1).join(", ")} and ${t[t.length-1]} reacted ${n} emoji`,a=n=>n.length===1?n[0]:n.length>10?`${n.slice(0,9).join(", ")} and ${n.length-10} more`:`${n.slice(0,n.length-1).join(", ")} and ${n[n.length-1]}`,i=n=>{const t=n.split(`
+`);for(let e=0;e<t.length;e++){if(t[e].charAt(0)===">"){t[e]=`>${t[e]}`;continue}t[e]=`> ${t[e]}`}return t.join(`
+`)},o="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",r=n=>{let t="",e=0;for(;e<n;)t+=o.charAt(Math.floor(Math.random()*o.length)),e+=1;return t};export{a,l as f,r,i as t};
