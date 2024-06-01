@@ -1,1 +1,0 @@
-import{K as r,z as o,L as u,r as n,l as s}from"./index-CHV9afYp.js";const f=()=>{const t=r(),{reset:e}=o(),{clear:a}=u();return n.useEffect(()=>{e(),a(),t("/")}),s.jsx(s.Fragment,{})};export{f as default};
