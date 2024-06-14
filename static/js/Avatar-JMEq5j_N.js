@@ -1,0 +1,1 @@
+import{l as s,r as o,n as e}from"./index-0lrRYg_c.js";import{A as m,D as r}from"./index-cK7lXVSw.js";import{a as c}from"./chunk-QXREVWCS-aF-hBf0N.js";const f=s((a,t)=>e.jsx(c,{ref:t,...a,src:m({src:a.src==="@"||a.src==="0"?r:a.src||r})})),i=o.memo(f);export{i as A};
