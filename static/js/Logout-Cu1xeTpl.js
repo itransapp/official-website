@@ -1,1 +1,0 @@
-import{M as r,B as o,N as n,r as u,n as s}from"./index-Dyo5cxm2.js";const f=()=>{const t=r(),{reset:e}=o(),{clear:a}=n();return u.useEffect(()=>{e(),a(),t("/")}),s.jsx(s.Fragment,{})};export{f as default};
