@@ -1,0 +1,1 @@
+import{M as r,B as o,N as n,r as u,n as s}from"./index-9AV4Szfn.js";const f=()=>{const t=r(),{reset:e}=o(),{clear:a}=n();return u.useEffect(()=>{e(),a(),t("/")}),s.jsx(s.Fragment,{})};export{f as default};
